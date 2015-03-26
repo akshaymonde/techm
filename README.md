@@ -1,2 +1,2 @@
 # techm
-techm intern internet based log book
+techm intern internet based log book.
